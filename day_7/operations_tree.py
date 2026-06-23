@@ -56,7 +56,9 @@ print("     / \\")
 print("   ", root.left.val, " ", root.right.val)
 print("   / \\")
 print(root.left.left.val, " ", root.left.right.val)
+
 #  deletion
+
 
  
 # traversal(DFS,BFS)--
